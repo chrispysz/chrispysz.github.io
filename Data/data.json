@@ -1,17 +1,23 @@
 [
   {
     "id": 1,
-    "text": "1ae542fd-0b76-4bb8-86f6-aaa1b51c06cc",
-    "sources": "Strawberry Cough"
+    "category": "covid"
+    "question": "Can Covid-19 be transmitted through goods produced in countries where there is ongoing transmission?"
+    "answer": "Although it can last on surfaces for many hours, but the environment, transportation and varying temperatures during shipment make it difficult for the virus to remain active. If you feel the surface may be contaminated, clean it with a disinfectant and wash your hands after touching it.",
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
   },
   {
     "id": 2,
-    "text": "1ae542fd-0b76-4bb8-86f6-aaa1b51c06cc",
-    "sources": "Strawberry Cough"
+    "category": "covid"
+    "question": "Is there any drug that can prevent and treat Covid-19?"
+    "answer": "At present, there is no drug that can prevent and treat the disease. Patients should receive proper and supportive care to alleviate the symptoms. WHO is accelerating research with all the partners to actively study the treatment for the disease.",
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
   },
   {
     "id": 3,
-    "text": "1ae542fd-0b76-4bb8-86f6-aaa1b51c06cc",
-    "sources": "Strawberry Cough"
+    "category": "covid"
+    "question": "Is it true that Covid-19 is transmitted in cold climate and not in hot and humid climate?"
+    "answer": "Coronavirus 2019 can be transmitted in any kind of climate. Wherever you are, no matter what kind of climate, you have to practice personal hygiene, i.e. wash your hands often, cover your mouth when you sneeze or cough, and wear masks.",
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
   }
  ]
