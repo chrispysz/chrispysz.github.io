@@ -1,44 +1,17 @@
 [
   {
-    "id": 6630,
-    "uid": "1ae542fd-0b76-4bb8-86f6-aaa1b51c06cc",
-    "strain": "Strawberry Cough",
-    "cannabinoid_abbreviation": "THC",
-    "cannabinoid": "Cannabicyclic Acid",
-    "terpene": "Nerolidol",
-    "medical_use": "bone stimulant",
-    "health_benefit": "regulates function in the immune system",
-    "category": "crumble",
-    "type": "sativa",
-    "buzzword": "stoned",
-    "brand": "Coda Signature"
+    "id": 1,
+    "text": "1ae542fd-0b76-4bb8-86f6-aaa1b51c06cc",
+    "sources": "Strawberry Cough"
   },
   {
-    "id": 4852,
-    "uid": "65475caa-1ffe-462d-a055-3b3ce740706c",
-    "strain": "Lemon Jack",
-    "cannabinoid_abbreviation": "∆8THC",
-    "cannabinoid": "Tetrahydrocannabivarin",
-    "terpene": "Guaiol",
-    "medical_use": "appetite stimulant",
-    "health_benefit": "reduces vomiting and nausea",
-    "category": "seeds & clones",
-    "type": "indica",
-    "buzzword": "bubbler",
-    "brand": "Lord Jones"
+    "id": 2,
+    "text": "1ae542fd-0b76-4bb8-86f6-aaa1b51c06cc",
+    "sources": "Strawberry Cough"
   },
   {
-    "id": 3920,
-    "uid": "a85b6a25-89da-405e-9b4c-e7d02865200c",
-    "strain": "Lemon Meringue",
-    "cannabinoid_abbreviation": "CBD",
-    "cannabinoid": "Cannabicyclic Acid",
-    "terpene": "Ocimene",
-    "medical_use": "intestinal anti-prokinetic",
-    "health_benefit": "aids sleep",
-    "category": "distillate",
-    "type": "hybrid",
-    "buzzword": "cashed",
-    "brand": "Cannapunch"
+    "id": 3,
+    "text": "1ae542fd-0b76-4bb8-86f6-aaa1b51c06cc",
+    "sources": "Strawberry Cough"
   }
  ]
