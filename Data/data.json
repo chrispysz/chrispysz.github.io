@@ -22,9 +22,16 @@
   },
   {
     "id": 4,
-    "category": "vaccine",
-    "question": "vax",
-    "answer": "vvv",
+    "category": "vaccines",
+    "question": "vaccine question",
+    "answer": "vaccine answer",
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
+  },
+  {
+    "id": 5,
+    "category": "general",
+    "question": "general question",
+    "answer": "general answer",
     "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
   }
  ]
