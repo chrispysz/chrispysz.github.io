@@ -4,34 +4,39 @@
     "category": "covid",
     "question": "Can Covid-19 be transmitted through goods produced in countries where there is ongoing transmission?",
     "answer": "Although it can last on surfaces for many hours, but the environment, transportation and varying temperatures during shipment make it difficult for the virus to remain active. If you feel the surface may be contaminated, clean it with a disinfectant and wash your hands after touching it.",
-    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf",
+    "state": "online"
   },
   {
     "id": 2,
     "category": "covid",
     "question": "Is there any drug that can prevent and treat Covid-19? NEW VERSION NEW VERSION!!!!",
     "answer": "At present, there is no drug that can prevent and treat the disease. Patients should receive proper and supportive care to alleviate the symptoms. WHO is accelerating research with all the partners to actively study the treatment for the disease.",
-    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf",
+    "state": "online"
   },
   {
     "id": 3,
     "category": "covid",
     "question": "Is there any drug that can prevent and treat Covid-19?",
     "answer": "At present, there is no drug that can prevent and treat the disease. Patients should receive proper and supportive care to alleviate the symptoms. WHO is accelerating research with all the partners to actively study the treatment for the disease.",
-    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf",
+    "state": "online"
   },
   {
     "id": 4,
     "category": "vaccines",
     "question": "vaccine question",
     "answer": "vaccine answer",
-    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf",
+    "state": "online"
   },
   {
     "id": 5,
     "category": "general",
     "question": "general question",
     "answer": "general answer",
-    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf"
+    "sources": "https://www.who.int/docs/default-source/searo/thailand/12myths-final099bfbf976c54d5fa3407a65b6d9fa9d.pdf",
+    "state": "online"
   }
  ]
